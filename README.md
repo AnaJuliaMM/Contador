@@ -5,4 +5,7 @@ Esse projeto foi proposto pelo curso de introdução à JavaScript lecionado pel
 - `Case 2`: Incrementar e Decrementar entre 0 e 10;
 - `Case 3`: Destaque nos números negativos (caracteres vermelhos);
 
-<img width="960" alt="Site" src="https://user-images.githubusercontent.com/123522605/223289923-2a13b853-9f89-472a-b91f-a5e07da8f5d7.png">
+# Demonstração 
+Acesse a demontração do funcionamento da página, assim como a origem do projeto, no link abaixo:
+
+https://www.linkedin.com/posts/ana-julia-moura-martins-7ba958249_javascript-html-css-activity-7038902251691618304-KH-J?utm_source=share&utm_medium=member_desktop
