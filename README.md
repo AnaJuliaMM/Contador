@@ -5,12 +5,3 @@ Esse projeto foi proposto pelo curso de introdução à JavaScript lecionado pel
 - `Case 2`: Incrementar e Decrementar entre 0 e 10;
 - `Case 3`: Destaque nos números negativos (caracteres vermelhos);
 
-# Linguagens e Ferramentas
-Linguagens:
-- `HTML`
-- `CSS`
-- `jS`
-
-Software:
-- `Figma`
-- `VsCode`
