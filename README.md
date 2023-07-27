@@ -1,8 +1,8 @@
 # Projeto Contador
-*en* <br>
+*(en)* <br>
 This project was developed during the Introduction to JavaScript course ( from Digital Innovation One), dictated by the teacher Stephay Nusch. The activity aims to present the JavaScript programming language as well as its features through the development of a counter.  For this reason, functions, conditional statements and DOM(Document Object Model) are the features that the project is based on.
 
-<br>*pt-br* <br>
+<br>*(pt-br)* <br>
 Este projeto foi proposto pelo curso de introdução à JavaScript lecionado pela professora Stephany Nusch na plataforma DIO. O objetivo da atividade é conhecer a linguagem JavaScript e seu recursos a partir da construção de um contador. Para tanto, foi trabalho principalmente funções, desvios condicionais e manipulação do DOM (Document Object Model).
 
 ## Funcionamento 🔨
@@ -14,6 +14,13 @@ O objetivo é fazer três tipos de contadores, nos quais ao apertar o botão 'Ad
 
 
 ## Demonstração 📸
-Acesse a demontração do funcionamento da página, assim como a origem do projeto, no link abaixo:
 
-https://www.linkedin.com/posts/ana-julia-moura-martins-7ba958249_javascript-html-css-activity-7038902251691618304-KH-J?utm_source=share&utm_medium=member_desktop
+https://github.com/AnaJuliaMM/Contador/assets/123522605/c3293b39-cdba-40a4-bf2a-e4406ea07a28
+
+
+
+## Linguagens / Tools
+ <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
+<a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+<a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+
